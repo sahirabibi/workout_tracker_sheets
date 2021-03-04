@@ -4,10 +4,10 @@ from datetime import datetime
 import os 
 
 # personal information
-GENDER = "female"
-WEIGHT = "52"
-HEIGHT = "170"
-AGE = 24
+GENDER = "your_gender"
+WEIGHT = "weight_kg"
+HEIGHT = "height_cm"
+AGE = "age_int"
 
 # nutritionX authentication 
 API_KEY = os.environ.get("N_API_KEY")
