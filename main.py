@@ -7,7 +7,7 @@ import os
 GENDER = "your_gender"
 WEIGHT = "weight_kg"
 HEIGHT = "height_cm"
-AGE = "age_int"
+AGE = "an_int"
 
 # nutritionX authentication 
 API_KEY = os.environ.get("N_API_KEY")
